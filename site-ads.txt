@@ -1,3 +1,23 @@
-
-0.0.0.0 google.com 
-0.0.0.0 www.google.com
+# [Site Ads]
+0.0.0.0 aftv-serving.bid
+0.0.0.0 srv.aftv-serving.bid
+0.0.0.0 trafficsan.com
+0.0.0.0 cdn.tsyndicate.com
+0.0.0.0 tsyndicate.com
+0.0.0.0 cdn.tsyndicate.com/*
+0.0.0.0 exoclick.com
+0.0.0.0 ads.exoclick.com
+0.0.0.0 awecrptjmp.com
+0.0.0.0 //awecrptjmp.com
+0.0.0.0 exosrv.com
+0.0.0.0 static.exosrv.com
+0.0.0.0 main.exosrv.com
+0.0.0.0 a.exosrv.com
+0.0.0.0 static.exosrv.com/*
+0.0.0.0 trafficfactory.biz 
+0.0.0.0 rpc-php.trafficfactory.biz
+0.0.0.0 ads2.contentabc.com
+0.0.0.0 a.adtng.com
+0.0.0.0 hw-cdn.trafficjunky.net
+0.0.0.0 ads.trafficjunky.net
+0.0.0.0 trafficjunky.net
